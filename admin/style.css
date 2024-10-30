@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CouponCode Admin CSS
+
+Style: Default
+Last Updated: November 4th, 2013
+Author: Weborithm.com
+
+*/
+
+.couponcode { background: #fff; border: 1px dashed #ccc; margin: 42px 20px 20px 0; padding: 20px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.CC_intro { border: 1px dashed #ccc; margin: 0 0 20px; padding: 10px; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.couponcode p { margin: 0; padding: 0 0 20px 0; }
+.couponcode .latestnews { border: 1px dashed #ccc; float: left; padding: 10px; width: 45%; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.couponcode .CC_info { border: 1px dashed #ccc; float: right; padding: 10px; width: 47%; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+.couponcode .latestnews h3, .couponcode .CC_info h3, .couponcode .upgradeccp h3 { color: #cc3636; font-size: 1.159em; font-weight: normal; margin: 0 0 15px; }
+.couponcode .latestnews p, .couponcode .CC_info p, .couponcode .upgradeccp p { padding: 5px 0; }
+.couponcode ul.elitelist { list-style-type:circle; padding: 10px; }
+
+.couponcode .upgradeccp { border: 1px dashed #ccc; float: left; margin: 0 0 0 10px; padding: 10px; width: 45%; -moz-border-radius: 5px; -webkit-border-radius: 5px; }
+
+.couponcode .wrap { margin: 0; }
+.couponcode .widefat { border: 1px dashed #aaa; margin: 0 0 20px !important; text-shadow: #fff 0 1px; }
+.couponcode table tr { background: #f9f9f9; }
+.couponcode table td, .couponcode table th { border-bottom: 1px dashed #aaa; padding: 10px; vertical-align: middle; }
+.couponcode table th { border-right: 1px dashed #aaa; color: #777; }
+.couponcode table .alternate { background: #F1F1F1; }
+.couponcode table p { color: #555; font-size: 1em; margin: 0; padding: 5px 0; }
+
+.couponcode h2{ background: #fff url(/wp-admin/images/white-grad.png) repeat-x left bottom; border: 1px dashed #ccc; color: #cc3636; font-style: normal; padding: 5px 10px; text-shadow: #fff 0 1px; -webkit-border-top-left-radius: 5px; -webkit-border-top-right-radius: 5px; -moz-border-radius-topleft: 5px; -moz-border-radius-topright: 5px; }
+
+.couponcode table.widefat input { border: 1px solid #777; margin: 5px 0 0; padding: 5px; width: 200px; }
+.couponcode table.widefat select { border: 1px solid #777; padding: 3px; width: 150px; }
+.couponcode table.widefat #wpa-regonly, .wp-auctions table.widefat #wpa-list { border: 1px solid #777; width: 230px; }
+.couponcode table.widefat textarea { border: 1px solid #777; padding: 5px; width: 400px; }
+	
+.couponcode p.submit { padding: 0; }
+.couponcode p.submit input { font-size: 15px !important; font-weight: bold; padding: 5px 10px; }
+.couponcode h2 em { background: url(settings.png) no-repeat 5px 2px; font-style: normal; padding: 0 0 0; }
+
+.options legend { display: none; }
